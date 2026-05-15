@@ -1,30 +1,6 @@
 ## Olá, Me chamo Guilherme e estou finalmente começando minha jornada!
 
-<div>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KaitoTK&show_icons=true&title_color=DA0000&text_color=999&icon_color=CF0000&border_color=CF0000&bg_color=FFFFFF00"
-    media="(prefers-color-scheme: light, dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KaitoTK&show_icons=true"
-    media="(prefers-color-scheme: light, dark), (prefers-color-scheme: no-preference)"
-  />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaitoTK&show_icons=true" />
-</picture>
 
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=KaitoTK&layout=compact&show_icons=true&title_color=DA0000&text_color=999&icon_color=DF0000&border_color=DF0000&bg_color=FFFFFF00&card_width=400&langs_count=8"
-    media="(prefers-color-scheme: light, dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=KaitoTK&show_icons=true"
-    media="(prefers-color-scheme: light, dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=KaitoTK&show_icons=true" />
-</picture>
-</div>
 
 
 <div style="display: inline_block"><br>
